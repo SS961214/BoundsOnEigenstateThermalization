@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "Cite as"
+authors:
+  - family-names: Sugimoto
+    given-names: Shoki
+    orcid: https://orcid.org/0000-0002-5874-928X
+    website: https://sites.google.com/view/shokisugimoto/
+title: "Bounds on Eigenstate Thermalization"
+doi: 10.5281/zenodo.14707989
