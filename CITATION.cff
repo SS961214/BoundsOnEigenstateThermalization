@@ -4,6 +4,7 @@ authors:
   - family-names: Sugimoto
     given-names: Shoki
     orcid: https://orcid.org/0000-0002-5874-928X
+    affiliation: "Department of Applied Physics, School of Engineering, The University of Tokyo"
     website: https://sites.google.com/view/shokisugimoto/
-title: "Bounds on Eigenstate Thermalization"
+title: "Code for Bounds on Eigenstate Thermalization"
 doi: 10.5281/zenodo.14707989
