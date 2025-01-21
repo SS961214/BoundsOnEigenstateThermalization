@@ -1,4 +1,4 @@
-# BoundsOnEigenstateThermalization
+# BoundsOnEigenstateThermalization [![DOI](https://zenodo.org/badge/919339114.svg)](https://doi.org/10.5281/zenodo.14707989)
 
 # Prerequisites
 - [Docker Community Edition (CE)](https://www.docker.com/community-edition)
