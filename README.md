@@ -1,4 +1,8 @@
-# BoundsOnEigenstateThermalization [![DOI](https://zenodo.org/badge/919339114.svg)](https://doi.org/10.5281/zenodo.14707989)
+# BoundsOnEigenstateThermalization [![DOI](https://zenodo.org/badge/919339114.svg)](https://zenodo.org/badge/latestdoi/919339114)
+The DOI above is for the most recent version of [the release on Zenodo](https://zenodo.org/records/10449856). 
+Earlier versions are available there as well. 
+To cite this code without mentioning the version, please use [https://doi.org/10.5281/zenodo.14707989](https://doi.org/10.5281/zenodo.14707989).
+This will always redirect you to the latest release.
 
 # Prerequisites
 - [Docker Community Edition (CE)](https://www.docker.com/community-edition)
